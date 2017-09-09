@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/1homework.unity
+  isLoaded: 1
+  isActive: 1
