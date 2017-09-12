@@ -22,7 +22,7 @@ public class PlayAudio : MonoBehaviour {
     {
         Debug.Log("Enter");
 
-        myAudio.Play();
+        //myAudio.Play();
         Debug.Log(myAudio);
        // if (myAudio.isPlaying)
        // {
